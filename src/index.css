@@ -1,0 +1,18 @@
+body {
+  background-color: antiquewhite;
+}
+
+.card {
+  width: 300px;
+}
+
+img {
+  width: 100%;
+}
+
+.wrap {
+  display: flex;
+  flex-wrap: wrap;
+}
+.card_title {
+}
