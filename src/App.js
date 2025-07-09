@@ -6,11 +6,13 @@ function App() {
     <div className="wrap">
       <Greeting />
       hello world
-      <Card />
-      <Card />
-      <Card />
-      <Card />
-      <Card />
+      <div className="wrap_card">
+        <Card />
+        <Card />
+        <Card />
+        <Card />
+        <Card />
+      </div>
     </div>
   );
 }

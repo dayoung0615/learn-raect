@@ -10,9 +10,13 @@ img {
   width: 100%;
 }
 
-.wrap {
+.wrap_card {
   display: flex;
   flex-wrap: wrap;
 }
 .card_title {
+}
+
+.textClass {
+  color: red;
 }
